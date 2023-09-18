@@ -13,3 +13,6 @@ class OrderBook:
 
     def get_order_book(self, symbol):
         # Get the full order book for a symbol
+
+    def execute_trades(self):
+        # Execute trades in the order book
